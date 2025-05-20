@@ -15,7 +15,11 @@ Espero que disfrutes de este curso, que aprendas y le saques todo el provecho en
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Viel Erfolg!
+=======
+Viel Erfolg!
+>>>>>>> Stashed changes
 =======
 Viel Erfolg!
 >>>>>>> Stashed changes
