@@ -13,4 +13,8 @@ A lo largo de este curso, encontrarás diferentes materiales que completarán tu
 
 Espero que disfrutes de este curso, que aprendas y le saques todo el provecho en tu visita a Alemania, Austria o Suiza. 
 
+<<<<<<< Updated upstream
 Viel Erfolg!
+=======
+Viel Erfolg!
+>>>>>>> Stashed changes
