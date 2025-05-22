@@ -13,6 +13,30 @@
   <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
   <link rel="manifest" href="images/site.webmanifest">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <style>
+      body {
+        background-color: #fff1f5; /* fondo rosa palo */
+      }
+
+      #app {
+        background-color: white;
+        padding: 2rem;
+        border-radius: 1rem;
+        max-width: 900px;
+        margin: auto;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      }
+
+      a {
+        color: #555555 !important; 
+        text-decoration: none !important;
+      }
+
+      a:hover {
+        color: #a03475 !important; 
+        text-decoration: underline !important;
+      }
+    </style>
 </head>
 
 <body>
@@ -23,7 +47,8 @@
       repo: 'https://github.com/albarod01/github.io',
       relativePath: true,
       auto2top: true,
-      loadSidebar: '_sidebar.md', // Asegúrate de que ese archivo exista
+      loadSidebar: '_sidebar.md',
+      homepage: 'introduccion/README.md'
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
