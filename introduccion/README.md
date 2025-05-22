@@ -13,4 +13,5 @@ Este no es un curso tradicional: aquí aprenderás jugando, explorando y resolvi
 
 📌 ¿Listo para comenzar?
 [Descarga la presentación del curso](/presentacion.html)
+<a href="/introduccion/dist/presentacion.html" target="_blank">Descargar presentación del curso</a>
 
