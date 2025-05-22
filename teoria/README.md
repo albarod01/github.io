@@ -8,4 +8,4 @@ Este material te servirá como guía de referencia durante tu aprendizaje: puede
 
 > ✨ Aprende a tu manera, con libertad y con herramientas que te apoyan de verdad.
 
-📥<a href="/teoria/dist/libro.epub" target="_blank">Descargar libro de teoría</a>
+📥 #### <a href="/teoria/dist/libro.epub" target="_blank">Descargar libro de teoría</a>

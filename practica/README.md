@@ -8,5 +8,5 @@ Y lo mejor de todo: **¡con soluciones al final!** Así podrás corregirte tú m
 
 > ✅ Aprende, practica, corrige... ¡y sigue creciendo en tu camino con el alemán!
 
-📥 <a href="/practica/dist/ejercicios.pdf" target="_blank">Descargar ejercicios</a>
-📥 <a href="/practica/dist/soluciones.pdf" target="_blank">Descargar soluciones</a>
+📥 #### <a href="/practica/dist/ejercicios.pdf" target="_blank">Descargar ejercicios</a>
+📥 #### <a href="/practica/dist/soluciones.pdf" target="_blank">Descargar soluciones</a>
