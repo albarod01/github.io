@@ -8,4 +8,4 @@ Este material te servirá como guía de referencia durante tu aprendizaje: puede
 
 > ✨ Aprende a tu manera, con libertad y con herramientas que te apoyan de verdad.
 
-📥 **[Descargar cuadernillo A1 en PDF](/dist/libro.epub)**
+📥 **[Descargar cuadernillo A1 en PDF](/dist/libro.epub/)**
