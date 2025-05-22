@@ -7,8 +7,8 @@ A lo largo de este curso, encontrarás diferentes materiales que completarán tu
 
 ## ¿Qué hay dentro de este curso?
 
-1. [Una presentación](introduccion//presentacion.html) que te introduce los conceptos principales y las claves del curso.  
-2. [Un libro](teoria/libro.epub) en formato que te presenta los contenidos teóricos fundamentales del curso.  
+1. [Una presentación](introduccion/presentacion.html) que te introduce los conceptos principales y las claves del curso.  
+2. [Un libro](teoria/libro.epub) que te presenta los contenidos teóricos fundamentales del curso.  
 3. [Un cuadernillo de actividades](practica/ejercicios.pdf) y un [solucionario](practica/soluciones.pdf) que te permite autoevaluarte y medir tu progreso.  
 4. Una historia interactiva, ¡para que culmines tu aprendizaje de forma exitosa y divertida!  
 
