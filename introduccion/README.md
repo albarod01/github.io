@@ -12,5 +12,5 @@ Este no es un curso tradicional: aquí aprenderás jugando, explorando y resolvi
 🎯 Nuestro objetivo: que al terminar este recorrido puedas comunicarte en alemán en contextos básicos y cotidianos, con confianza y una sonrisa.
 
 📌 ¿Listo para comenzar?
-[Descarga la presentación del curso](/introduccion/presentacion.html)
+[Descarga la presentación del curso](/presentacion.html)
 
