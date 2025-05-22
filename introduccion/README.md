@@ -1,5 +1,5 @@
 **👋 Willkommen! ¡Bienvenido al curso de alemán A1!**
-
+<img src="/introduccion/img/portada" alt="Portada">
 ¿Es tu primera vez aprendiendo alemán? ¡No te preocupes! Este curso está pensado especialmente para ti.
 
 Aquí comenzarás a descubrir el idioma alemán paso a paso, desde lo más básico: saludar, presentarte, pedir algo en un restaurante o preguntar cómo llegar a un lugar. Todo a través de actividades, presentaciones y una historia interactiva en la que tú eres la protagonista o el protagonista.
