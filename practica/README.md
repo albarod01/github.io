@@ -8,6 +8,5 @@ Y lo mejor de todo: **¡con soluciones al final!** Así podrás corregirte tú m
 
 > ✅ Aprende, practica, corrige... ¡y sigue creciendo en tu camino con el alemán!
 
-📥 **[Descargar cuadernillo de ejercicios A1](/dist/ejercicios.pdf)**
-
-📥 **[Descargar cuadernillo de soluciones A1](/dist/soluciones.pdf)**
+📥 <a href="/practica/dist/ejercicios.pdf" target="_blank">Descargar ejercicios</a>
+📥 <a href="/practica/dist/soluciones.pdf" target="_blank">Descargar soluciones</a>
