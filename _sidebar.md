@@ -1,3 +1,3 @@
-- [Presentación del curso](/introduccion/)
-- [Cuadernillo de teoría](/teoria/)
-- [Ejercicios y sus soluciones](/practica/)
+- [Presentación del curso](introduccion/README.md)
+- [Cuadernillo de teoría](teoria/README.md)
+- [Ejercicios y sus soluciones](practica/README.md)
