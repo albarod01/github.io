@@ -1,10 +1,3 @@
-# Curso: Primeros pasos en el alemán
-
-Hallo!  
-Te doy la bienvenida a este curso de iniciación al alemán. En él, aprenderás a comunicarte de forma simple y clara para que tus primeros días en tu ciudad germanoparlante sean *wunderschön*!
-
-A lo largo de este curso, encontrarás diferentes materiales que completarán tu proceso de aprendizaje. 
-
 ## ¿Qué hay dentro de este curso?
 
 1. [Una presentación](/introduccion/) que te introduce los conceptos principales y las claves del curso.  
